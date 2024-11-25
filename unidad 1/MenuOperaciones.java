@@ -36,5 +36,6 @@ public class MenuOperaciones {
                 System.out.println("Opción no válida.");
                 break;
         }
+        scanner.close();
     }
 }
