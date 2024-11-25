@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class java {
 
+    public static final String util = null;
+
     public static void main(String[] args) {
         //ESTE PROGRAMA FUE HECHO POR: YANDERSON JESUS ORTIZ COVA 192333, SANTIAGO CASTILLA 192413, KEVIN STEIMAN SANCHEZ 192313
         int i=0;
